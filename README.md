@@ -1,3 +1,4 @@
+# Service has been shutdown on 2025-06-30
 # badger-issues
 
 Talk about issues, requests of bagers. Most importanly, share every happiness of Badger.
